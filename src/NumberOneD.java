@@ -29,7 +29,6 @@ public class NumberOneD {
         System.out.printf("Second course: %.2f\n", Predicted_300_lvl_Second_Grade);
         System.out.printf("Third course: %.2f\n", Predicted_300_lvl_Third_Grade);
 
-        scn.close();
     }
     
 }
